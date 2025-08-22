@@ -103,3 +103,7 @@ let str = "mahmoud sadek sw quality sw engineer";
     result = char;
 
 console.log(result); //output: MahmoudSadekSwQualitySwEngineer
+
+
+/*To update the file*/
+console.log("File updated successfully!");
