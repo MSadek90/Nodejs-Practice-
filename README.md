@@ -9,7 +9,10 @@ This repository is created purely for Node.js practice. I am currently learning 
 3. Keep updating this repository with the latest work and experiments as I progress.  
 
 ## Current Contents
+
 - `Index.js` → Utility functions: `findMin` and `findDifference`.  
 - `package.json` → Project metadata and setup.  
-- Test scripts → Basic tests to verify the functions work correctly.  
-## Note: Currently, this project contains basic Node.js scripts for practice purposes. It will be continuously updated with new experiments and code improvements
+- `Test.js` → Basic tests.  
+- `examples/strings.js` → String manipulation examples (indexOf, charAt, replace, trim, split, slice, template literals, custom functions).  
+
+> **Note:** This project contains Node.js scripts and examples for practice. It will be updated continuously with new experiments.
