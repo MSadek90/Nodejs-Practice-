@@ -1,0 +1,12 @@
+{
+  "name": "math",
+  "version": "1.0.0",
+  "description": "some Math Functions",
+  "license": "ISC",
+  "author": "Mahmoud Sadek",
+  "type": "module",
+  "main": "Index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
