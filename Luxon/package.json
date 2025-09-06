@@ -1,15 +1,16 @@
 {
-  "name": "math",
+  "name": "luxon",
   "version": "1.0.0",
-  "description": "some Math Functions",
+  "description": "",
   "license": "ISC",
-  "author": "Mahmoud Sadek",
+  "author": "Mahmoud sadek",
   "type": "module",
-  "main": "Index.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
     "luxon": "^3.7.1"
-  }
+  },
+  "devDependencies": {}
 }
