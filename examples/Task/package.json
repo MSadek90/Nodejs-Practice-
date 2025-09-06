@@ -1,9 +1,9 @@
 {
-  "name": "math",
+  "name": "task",
   "version": "1.0.0",
-  "description": "some Math Functions",
+  "description": "",
   "license": "ISC",
-  "author": "Mahmoud Sadek",
+  "author": "",
   "type": "module",
   "main": "Index.js",
   "scripts": {
